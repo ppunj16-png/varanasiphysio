@@ -1,1 +1,4 @@
-{"id":"/robots.txt","path":"/robots.txt","sha":"da27c99cc83a20ffd0249207829f8828d740962e","mime_type":"text/plain","size":72,"site_id":"1ffaedf7-a738-4297-8226-d9b72927d6ce","deploy_id":"69d564e270436a84f79cc762"}
+User-agent: *
+Allow: /
+
+Sitemap: https://varanasiphysio.com/sitemap.xml
