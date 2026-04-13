@@ -1,1 +1,24 @@
-{"id":"/sitemap.xml","path":"/sitemap.xml","sha":"6aad9861a12032e8ffafbc5ee1ea588a17f1d6d3","mime_type":"application/xml","size":2625,"site_id":"1ffaedf7-a738-4297-8226-d9b72927d6ce","deploy_id":"69d564e270436a84f79cc762"}
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url><loc>https://varanasiphysio.com/</loc><lastmod>2026-04-06</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://varanasiphysio.com/contact</loc><lastmod>2026-04-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Service Pages -->
+  <url><loc>https://varanasiphysio.com/orthopaedic-physiotherapy-varanasi</loc><lastmod>2026-04-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://varanasiphysio.com/neurological-physiotherapy-varanasi</loc><lastmod>2026-04-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://varanasiphysio.com/sports-physiotherapy-varanasi</loc><lastmod>2026-04-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://varanasiphysio.com/paediatric-physiotherapy-varanasi</loc><lastmod>2026-04-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://varanasiphysio.com/post-surgery-rehabilitation-varanasi</loc><lastmod>2026-04-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://varanasiphysio.com/home-physiotherapy-varanasi</loc><lastmod>2026-04-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://varanasiphysio.com/geriatric-physiotherapy-varanasi</loc><lastmod>2026-04-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://varanasiphysio.com/womens-health-physiotherapy-varanasi</loc><lastmod>2026-04-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://varanasiphysio.com/tele-physiotherapy-varanasi</loc><lastmod>2026-04-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Speciality Pages -->
+  <url><loc>https://varanasiphysio.com/shoulder-rehabilitation-varanasi</loc><lastmod>2026-04-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://varanasiphysio.com/knee-rehabilitation-varanasi</loc><lastmod>2026-04-06</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://varanasiphysio.com/posture-analysis-varanasi</loc><lastmod>2026-04-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://varanasiphysio.com/gait-analysis-varanasi</loc><lastmod>2026-04-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+</urlset>
